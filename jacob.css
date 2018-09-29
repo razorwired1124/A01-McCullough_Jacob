@@ -47,3 +47,19 @@ footer{
 #future-section{
 	font-style:oblique;
 }
+
+nav{
+	background-color:black;
+	height: 50px;
+	line-height: 50px;
+}
+
+nav ul li{
+	list-style-type: none;
+	width: 150px;
+	float: left;
+}
+
+li a{
+	color: white;
+}
