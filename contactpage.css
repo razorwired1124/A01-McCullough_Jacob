@@ -51,3 +51,11 @@ a{
     margin: 5%;
     padding: 20px;
 }
+
+header{
+	background-color: gray;
+	font-style: oblique;
+	font-size:36px;
+	font-family: arial;
+	border-style: ridge;
+}
